@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f4f6fb; color: #1d2838; font: 16px/1.5 system-ui, sans-serif; }
+main { max-width: 760px; margin: 56px auto; padding: 36px; background: #fff; border-radius: 16px; box-shadow: 0 12px 45px #18263b16; }
+h1 { margin-top: 0; }
+label { display: block; margin: 24px 0 8px; font-weight: 650; }
+textarea { width: 100%; padding: 12px; font: inherit; border: 1px solid #bdc8d7; border-radius: 8px; }
+button { display: block; padding: 12px 24px; margin: 18px 0; border: 0; border-radius: 8px; background: #275bc6; color: white; cursor: pointer; font: inherit; }
+output { display: block; min-height: 65px; padding: 18px; background: #f1f5fc; border-radius: 8px; overflow-wrap: anywhere; }
